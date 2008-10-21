@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest branch="master">
+  <remote  name="korg"
+           fetch="git://android.kernel.org/"
+           review="review.source.android.com" />
+  <default revision="master"
+           remote="korg" />
+
+  <project path="android-issuetrackerredirect"
+           name="tools/android-issuetrackerredirect" />
+
+  <project path="repo"
+           name="tools/repo" />
+
+  <project path="gerrit"
+           name="tools/gerrit" />
+
+  <!--
+      External Projects
+  -->
+  <project path="protobuf"
+           name="tools/protobuf"
+           revision="appengine-patch" />
+
+  <project path="jgit"
+           name="tools/egit"
+           revision="for-gerrit" />
+</manifest>
