@@ -13,7 +13,10 @@
            name="tools/repo" />
 
   <project path="gerrit"
-           name="tools/gerrit" />
+           name="tools/gerrit"
+           revision="gerrit2" />
+  <project path="gwtjsonrpc"
+           name="tools/gwtjsonrpc" />
 
   <!--
       External Projects
