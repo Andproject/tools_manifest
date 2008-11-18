@@ -6,6 +6,9 @@
   <default revision="master"
            remote="korg" />
 
+  <project path="manifest"
+           name="tools/manifest" />
+
   <project path="android-issuetrackerredirect"
            name="tools/android-issuetrackerredirect" />
 
