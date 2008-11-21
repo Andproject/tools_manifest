@@ -6,6 +6,9 @@
   <default revision="master"
            remote="korg" />
 
+  <project path="manifest"
+           name="tools/manifest" />
+
   <project path="android-issuetrackerredirect"
            name="tools/android-issuetrackerredirect" />
 
@@ -19,6 +22,15 @@
            name="tools/gwtjsonrpc" />
 
   <!--
+      Test environment
+  -->
+  <project path="test/manifest"
+           name="tools/test/manifest" />
+
+  <project path="test/project0"
+           name="tools/test/project0" />
+
+  <!--
       External Projects
   -->
   <project path="protobuf"
@@ -28,4 +40,5 @@
   <project path="jgit"
            name="tools/egit"
            revision="for-gerrit" />
+
 </manifest>
