@@ -44,6 +44,6 @@
 
   <project path="jgit"
            name="tools/egit"
-           revision="for-gerrit" />
+           revision="for-gerrit2" />
 
 </manifest>
