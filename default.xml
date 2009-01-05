@@ -14,7 +14,8 @@
            name="tools/android-issuetrackerredirect" />
 
   <project path="repo"
-           name="tools/repo" />
+           name="tools/repo"
+           revision="for-gerrit2" />
 
   <project path="gerrit"
            name="tools/gerrit"
