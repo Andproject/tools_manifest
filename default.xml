@@ -7,19 +7,16 @@
            remote="korg" />
 
   <project path="manifest"
-           name="tools/manifest"
-           revision="gerrit2" />
+           name="tools/manifest" />
 
   <project path="android-issuetrackerredirect"
            name="tools/android-issuetrackerredirect" />
 
   <project path="repo"
-           name="tools/repo"
-           revision="for-gerrit2" />
+           name="tools/repo" />
 
   <project path="gerrit"
-           name="tools/gerrit"
-           revision="gerrit2" />
+           name="tools/gerrit" />
 
   <project path="gwtjsonrpc"
            name="tools/gwtjsonrpc" />
