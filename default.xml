@@ -36,10 +36,6 @@
   <!--
       External Projects
   -->
-  <project path="protobuf"
-           name="tools/protobuf"
-           revision="appengine-patch" />
-
   <project path="jgit"
            name="tools/egit"
            revision="for-gerrit2" />
