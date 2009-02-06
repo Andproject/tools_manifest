@@ -3,6 +3,9 @@
   <remote  name="korg"
            fetch="git://android.git.kernel.org/"
            review="review.source.android.com" />
+  <remote  name="orcz"
+           fetch="git://repo.or.cz/" />
+
   <default revision="master"
            remote="korg" />
 
@@ -37,8 +40,9 @@
       External Projects
   -->
   <project path="jgit"
-           name="tools/egit"
-           revision="for-gerrit2" />
+           name="egit"
+           remote="orcz"
+           revision="master" />
 
   <project path="mina_sshd"
            name="tools/mina_sshd"
