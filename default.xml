@@ -43,9 +43,4 @@
            name="egit"
            remote="orcz"
            revision="master" />
-
-  <project path="mina_sshd"
-           name="tools/mina_sshd"
-           revision="for-gerrit2" />
-
 </manifest>
