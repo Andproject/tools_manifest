@@ -21,6 +21,9 @@
   <project path="gerrit"
            name="tools/gerrit" />
 
+  <project path="gerrit-contactstore"
+           name="tools/gerrit-contactstore" />
+
   <project path="gerrit-keyapplet"
            name="tools/gerrit-keyapplet" />
 
