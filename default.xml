@@ -27,6 +27,9 @@
   <project path="gerrit-keyapplet"
            name="tools/gerrit-keyapplet" />
 
+  <project path="gwtexpui"
+           name="tools/gwtexpui" />
+
   <project path="gwtjsonrpc"
            name="tools/gwtjsonrpc" />
 
