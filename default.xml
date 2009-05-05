@@ -31,7 +31,8 @@
            name="tools/gwtexpui" />
 
   <project path="gwtjsonrpc"
-           name="tools/gwtjsonrpc" />
+           name="tools/gwtjsonrpc"
+           revision="maint-1.0" />
 
   <project path="gwtorm"
            name="tools/gwtorm" />
