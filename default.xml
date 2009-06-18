@@ -49,7 +49,7 @@
       External Projects
   -->
   <project path="jgit"
-           name="egit"
+           name="jgit"
            remote="orcz"
            revision="master" />
 </manifest>
